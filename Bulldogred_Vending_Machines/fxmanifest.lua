@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Dhycee'
+author 'Bulldogred'
 description 'Vending Machine Script with ox_target and ox_inventory integration'
 version '1.0.0'
 
